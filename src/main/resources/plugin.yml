@@ -1,0 +1,5 @@
+name: MeWarpGUI
+version: ${project.version}
+main: me.matthewe.spigot.warpgui.MeWarpGUI
+authors: [matt11matthew]
+description: MeWarpGUI
